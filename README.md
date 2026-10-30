@@ -48,6 +48,9 @@ A catamaran with a solar panel, pumps and the sorbent–electrode module. It tak
   </tr>
 </table>
 
+<img src="images/robot-early-build.jpg" width="49%" alt="Early build with unpainted floats"><br>
+<sub>An early build, March 2026. I sanded and shaped the floats by hand before they were painted.</sub>
+
 &nbsp;
 
 ## Limits
@@ -60,5 +63,6 @@ Copper is not uranium, and a school lab is not the sea. The results show that th
 
 Paper: [Uranium_Recovery_paper.pdf](paper/Uranium_Recovery_paper.pdf)<br>
 Authors: Shakhnur Oralbek, Saltanat Tolegen<br>
+My part: built the robot frame, did the soldering and shaped the floats<br>
 Supervisor: Nikolay Avdyunin<br>
 Supported by an internal grant from AUES, Almaty
