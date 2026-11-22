@@ -64,5 +64,5 @@ Copper is not uranium, and a school lab is not the sea. The results show that th
 Paper: [Uranium_Recovery_paper.pdf](paper/Uranium_Recovery_paper.pdf)<br>
 Authors: Shakhnur Oralbek, Saltanat Tolegen<br>
 My part: built the robot frame, did the soldering and shaped the floats<br>
-Supervisor: Nikolay Avdyunin<br>
+Supervisor: Nikolay Avdunin<br>
 Supported by an internal grant from AUES, Almaty
