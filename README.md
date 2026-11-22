@@ -53,6 +53,22 @@ A catamaran with a solar panel, pumps and the sorbent–electrode module. It tak
 
 &nbsp;
 
+## Feasibility study
+
+I also estimated whether a full-size version could pay off, using published figures for uranium in the Caspian Sea and for bipolar electrolysis. The site is the shelf near Aktau, where uranium is about 6.12 µg/L, roughly twice the ocean average.
+
+| | Estimate |
+|---|---|
+| Electrolysis voltage | about 0.6 V |
+| Energy per kg of uranium | 1,944 kWh (electrolysis) + 190 kWh (pumps and cranes) = 2,134 kWh |
+| Energy from 1 kg of uranium in a light-water reactor | 44,000 kWh |
+| Energy return on investment (EROI) | 44,000 / 2,134 ≈ 20.6 : 1 |
+| Production cost | about $83/kg, vs about $189/kg market price (March 2026) |
+
+These are paper estimates built on numbers from other studies, not measurements from our robot. Slides: [InfoMatrix_presentation.pdf](paper/InfoMatrix_presentation.pdf)
+
+&nbsp;
+
 ## Limits
 
 Copper is not uranium, and a school lab is not the sea. The results show that the idea works in principle, nothing more. The robot is a model and hasn't been tested on open water.
@@ -63,6 +79,6 @@ Copper is not uranium, and a school lab is not the sea. The results show that th
 
 Paper: [Uranium_Recovery_paper.pdf](paper/Uranium_Recovery_paper.pdf)<br>
 Authors: Shakhnur Oralbek, Saltanat Tolegen<br>
-My part: built the robot frame, did the soldering and shaped the floats<br>
+My part: the feasibility calculations, the robot frame, the soldering and the floats<br>
 Supervisor: Nikolay Avdunin<br>
 Supported by an internal grant from AUES, Almaty
